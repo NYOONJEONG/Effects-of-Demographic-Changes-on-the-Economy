@@ -1,8 +1,8 @@
 # Effects-of-Demographic-Changes-on-the-Economy
 
-<h1 align='center'> 2023 응용통계학특수연구 기말 프로젝트 </h1>
+<h2 align='center'> 2023 응용통계학특수연구 기말 프로젝트 </h2>
 
-<h2 align='center'> VARMAX를 통한 인구구조 변화가 경제에 미치는 영향 연구  </h2>
+<h3 align='center'> VARMAX를 통한 인구구조 변화가 경제에 미치는 영향 연구  </h3>
 
 ## 분석 주제
 ![분석 주제](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/7ab1c9ad-1a31-49b6-a2ef-77de837fe9e1)
